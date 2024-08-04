@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Online","Nakhun Hosting"];
 
 
 let currentIndex = 0;
